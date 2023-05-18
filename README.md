@@ -1,3 +1,4 @@
-# Contributoes
-Mr.Sujay Silas Macwan
-Big Data analysis sem 2
+# contributors
+Mr. Varun Bansal
+Mr. Sujay Silas Macwan
+

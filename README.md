@@ -1,2 +1,2 @@
 # contributors
-Varun
+Varun Bansal

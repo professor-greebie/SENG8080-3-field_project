@@ -1,4 +1,6 @@
 # contributors
 Mr. Varun Bansal
 Mr. Sujay Silas Macwan
-Maharshi
+Mr. Kranthi Kiran
+Mr. Maharshi
+

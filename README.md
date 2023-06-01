@@ -7,4 +7,16 @@ Mr. Rajan Thakkar
 Mr. Harsh Polra
 Mr. Jaldip Mangukiya
 Mr. Divyang Hirpara
-Mr, kaivalya Pandit
+Mr. Kaivalya Pandit
+Mr. Mohammed Saifullah
+Mr. Kaivalya Pandit
+Mr.Shashi Bhatia
+Mr. Kalpesh Singh Meena
+Mr. Bhavik Mistry
+Mr. Melvin Samuel Joshuva
+Mr. Maulik Patel
+Mrs. Simone Vito Lopes
+Ms. Dhruvi Kansara
+Mr. Ashish Gupta
+Mr. Nisarg B Patel 
+Mr. Voona Sai Tirupati

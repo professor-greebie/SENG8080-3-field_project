@@ -18,8 +18,5 @@ Mrs. Simone Vito Lopes
 Ms. Dhruvi Kansara
 Mr. Ashish Gupta
 Mr. Nisarg B Patel 
-<<<<<<< HEAD
-Mahalakshmi Muniraj
-=======
 Mr. Voona Sai Tirupati
->>>>>>> origin/master
+Mahalakshmi Muniraj

@@ -1,7 +1,7 @@
 # contributors
 Mr. Varun Bansal
 Mr. Sujay Silas Macwan
-Mr. Kranthi Kiran
+Mr. Kranthi Kiran B
 Mr. Maharshi
 Mr. Rajan Thakkar
 Mr. Harsh Polra
@@ -19,4 +19,8 @@ Ms. Dhruvi Kansara
 Mr. Ashish Gupta
 Mr. Nisarg B Patel 
 Mr. Voona Sai Tirupati
+Mahalakshmi Muniraj
+Ms. Manjeet kaur chahal
+Michelle Malcoln
 Mr. Vinay Kumar Molgara
+

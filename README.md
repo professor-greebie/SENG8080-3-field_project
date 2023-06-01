@@ -15,6 +15,9 @@ Mr. Bhavik Mistry
 Mr. Melvin Samuel Joshuva
 Mr. Maulik Patel
 Ms. Manjeet Kaur Chahal
-Ms.Michelle Malcolm
-
-
+Ms. Michelle Malcolm
+Mrs. Simone Vito Lopes
+Ms. Dhruvi Kansara
+Mr. Ashish Gupta
+Mr. Nisarg B Patel 
+Mr. Voona Sai Tirupati

@@ -14,8 +14,8 @@ Mr. Kalpesh Singh Meena
 Mr. Bhavik Mistry
 Mr. Melvin Samuel Joshuva
 Mr. Maulik Patel
+Mrs. Simone Vito Lopes
 Ms. Dhruvi Kansara
 Mr. Ashish Gupta
-Mrs. Simone Vito Lopes
 Mr. Nisarg B Patel 
 Mr. Voona Sai Tirupati

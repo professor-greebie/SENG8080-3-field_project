@@ -1,7 +1,7 @@
 # contributors
 Mr. Varun Bansal
 Mr. Sujay Silas Macwan
-Mr. Kranthi Kiran
+Mr. Kranthi Kiran B
 Mr. Maharshi
 Mr. Rajan Thakkar
 Mr. Harsh Polra

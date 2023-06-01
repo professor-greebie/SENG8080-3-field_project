@@ -8,5 +8,13 @@ Mr. Harsh Polra
 Mr. Jaldip Mangukiya
 Mr. Divyang Hirpara
 Mr. Mohammed Saifullah
+Mr. Kaivalya Pandit
+Mr.Shashi Bhatia
+Mr. Kalpesh Singh Meena
+Mr. Bhavik Mistry
+Mr. Melvin Samuel Joshuva
+Mr. Maulik Patel
+Ms. Manjeet Kaur Chahal
 Ms.Michelle Malcolm
+
 

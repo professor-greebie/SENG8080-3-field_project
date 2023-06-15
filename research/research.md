@@ -1,3 +1,6 @@
+Human Genomes Data Link:
+https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/genes/
+
 GFFUtils
 ========
 

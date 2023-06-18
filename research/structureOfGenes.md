@@ -15,7 +15,7 @@
  - Each Transcript have features like Exons, Coding Sequenses (CDS) , 5' UTR, 3' UTR.
  
 # A sample gff3 file is gff_example1.gff3 
--FIRST FEW LINES OF gff_example.gff3 ARE : 
+- FIRST FEW LINES OF gff_example.gff3 ARE : 
 
 chr1	ensGene	gene	4763287	4775820	.	-	.	Name=ENSMUSG00000033845;ID=ENSMUSG00000033845;Alias=ENSMUSG00000033845;gid=ENSMUSG00000033845
 chr1	ensGene	mRNA	4764517	4775779	.	-	.	Name=ENSMUST00000045689;Parent=ENSMUSG00000033845;ID=ENSMUST00000045689;Alias=ENSMUSG00000033845;gid=ENSMUSG00000033845

@@ -28,10 +28,10 @@ chr1	ensGene	CDS	4775654	4775758	.	-	0	Name=ENSMUST00000045689.cds0;Parent=ENSMU
 3. Feature type : it denotes the type of feature such as gene, transcript, exon, CDS, 5' UTR, 3' UTR. Gtf file has few feature types than Gff file.
 4. Start Coordinates of feature
 5. End Coordinates of feature
-6. Score of the Feature : A floating point number that represents the score of the number. If no score has been assigned, then it is represented by the dot character.
-7. Strand of feature : It denotes the whether the feature has forward strand (+) of the reverse strand (-)
+6. Score of the feature : A floating point number that represents the score of the number. If no score has been assigned, then it is represented by the dot character.
+7. Strand of feature : It denotes whether the feature has a forward strand (+) of the reverse strand (-)
 8. Phase of CDS feature :  it is an integer value where a complete codon begins or the number of nucleotides one has to move to get a complete codon.
-9. Attributes : Information about the annotation of the features. It is stored as Tag-Value pair separated by a semi-colon. It includes information such as the Id of the feature, the parent to which the feature belongs, gene type, transcript type, transcript name and any additional information.  
+9. Attributes : Information about the annotation of the features. It is stored as Tag-Value pair separated by a semi-colon. It includes information such as the feature's Id, the parent to which the feature belongs, gene type, transcript type, transcript name and any additional information.  
 
 RESOURCES : 
 https://en.wikipedia.org/wiki/Gene_structure

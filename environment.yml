@@ -1,4 +1,4 @@
-name: seng8080-1
+name: seng8080-3
 channels:
   - conda-forge
 dependencies:

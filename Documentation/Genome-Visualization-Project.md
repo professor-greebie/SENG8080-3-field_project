@@ -8,6 +8,7 @@
 
 ## Data Collection
 ### Contributors
+•	ThakkarRajan - Rajan Thakkar
 
 ## Data Storage and Maintenance
 ### Contributors

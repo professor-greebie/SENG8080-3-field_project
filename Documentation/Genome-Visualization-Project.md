@@ -14,6 +14,12 @@
 
 ## Data Research
 ### Contributors
+• ReverseN00B -Bhavik Mistry
+• msaifu - Saifullah, Mohammed
+• Arjuna-Sapkota - Sapkota, Arjun
+• SaiTiru - Voona, Sai Tirupati
+• Nisarg-3428 - Patel, Nisarg Vipulbhai
+• (can find username) - Pandit, Kaivalya Kartikey
 
 ## Documentation and Style
 ### Contributors

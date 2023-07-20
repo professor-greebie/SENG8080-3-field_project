@@ -30,5 +30,5 @@ Obtaining informed consent from participants, if applicable.
 Complying with relevant guidelines and regulations for the use of human genomic data in research.
 
 Outcomes :
-Generate a holistic report containing dashboards, visuals and __ to represent the finding obtained from the study.
+Generate a holistic report containing dashboards and visuals to represent the finding obtained from the study.
 

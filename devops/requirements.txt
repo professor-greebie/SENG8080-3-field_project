@@ -1,0 +1,4 @@
+boto3==1.28.8
+psycopg2==2.9.6
+pandas==2.0.3
+sqlalchemy==2.0.19

@@ -41,6 +41,10 @@
 
 ## Data Quality
 ### Contributors
+•	Manjeet7805 -Manjeet kaur, chahal\
+•	Michalle- Malcolm - Michalle ,Malcolm\
+•	Mhalakshami Muniraj
+
 ## Data Analysis and Visualization
 ### Contributors
 •	AniketTiwari19 - Aniket Kapildev, Tiwari\

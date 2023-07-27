@@ -18,6 +18,9 @@
 
 ## Data Storage and Maintenance
 ### Contributors
+Manjeet7805 - Manjeet kaur,chahal\
+mhalakshMI MUNIRAJ
+michalle
 
 ## Data Research
 ### Contributors

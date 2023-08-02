@@ -18,6 +18,11 @@
 
 ## Data Storage and Maintenance
 ### Contributors
+•	jaldip9187 - Jaldip Mangukiya\
+•	Divyang01 - Divyang Hirpara\
+•	yours-truly-rshi - Maharshi Patel\
+•	nisarg-3428 - Nisarg Patel\
+•	shashi2855 - Shashi Bhatiya
 
 ## Data Research
 ### Contributors
@@ -30,6 +35,7 @@
 
 ## Documentation and Style
 ### Contributors
+•	@prithviconestoga - Ashok, Prithvi
 
 ## Development Operations
 ### Contributors

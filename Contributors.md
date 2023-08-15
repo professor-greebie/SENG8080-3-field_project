@@ -1,10 +1,3 @@
-# SENG8080-3-field_project 
-# Genome Visualization Project: Cancer Therapy and Clonal Hematopoiesis	
-## Introduction 
-&emsp; In this project, we will dive into the realm of cancer therapy and clonal hematopoiesis, utilizing data from a study conducted by the Memorial Sloan Kettering Cancer Center (MSK) and published in Nature Genetics in 2020.\
-&emsp; This project aims to analyze and visualize the genetic landscape associated with cancer therapy and clonal hematopoiesis, shedding light on the underlying mechanisms and potential therapeutic targets. We begin with extensive research, collection, storage and data exploration, followed by data preprocessing, analysis, and finally, culminating in creating a dashboard for visualizing our findings.\
-&emsp; The primary dataset for this project is sourced from the MSK study titled "Cancer Therapy and Clonal Hematopoiesis," which has provided a comprehensive view of the genetic alterations and their impact on patients undergoing cancer therapy. \
-&emsp; This Genome Visualization Project aims to bridge the gap between complex genomic data and its practical applications in cancer therapy and clonal hematopoiesis. Our ultimate goal is to provide a visual representation that facilitates the interpretation of this data, promotes new discoveries, and potentially enhances personalized treatment strategies for cancer patients.
 
 ## Data Collection
 ### Contributors
@@ -60,6 +53,3 @@
 •	maulikpatel30 - Maulik Niralkumar, Patel\
 •	svitolopes - Simone, Vito Lopes\
 •	varunbansal313 - Varun, Bansal
-
-
-

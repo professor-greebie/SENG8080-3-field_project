@@ -29,5 +29,5 @@ Mr Arjun Sapkota
 Mr. Aniket Tiwari
 Mr. Rity Abraham Jacob
 Mr. Mohammad Benkhial
-Ms. Boyewa Binitie
 Ms. Moulya Bangalore Pradeep
+Ms. Boyewa Binitie

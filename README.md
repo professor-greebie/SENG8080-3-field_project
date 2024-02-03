@@ -1,4 +1,9 @@
 # contributors
+Hrithik Roy (8838100)
+Gunjan Agarwal (8927041)
+Prabhdeep Singh(8946518)
+Vyomesh Mistry (8870525)
+Anju Mohan (8933190)
 Mr. Varun Bansal
 Mr. Sujay Silas Macwan
 Mr. Kranthi Kiran B

@@ -20,6 +20,7 @@ Mr. Ashish Gupta
 Mr. Nisarg B Patel 
 Mr. Voona Sai Tirupati
 Mahalakshmi Muniraj
+Mr. Rishman Singh
 Ms. Manjeet kaur chahal
 Michelle Malcoln
 Mr. Vinay Kumar Molgara
